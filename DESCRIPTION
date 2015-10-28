@@ -1,0 +1,10 @@
+Package: roxpkg
+Type: Package
+Title: document roxygen2 5.0.0 weirdness
+Version: 1.0
+Date: 2015-10-28
+Author: Foo Barr
+Maintainer: Tim Triche <tim.triche@gmail.com>
+Description: run devtools::document() on me!
+License: The Unlicense
+RoxygenNote: 5.0.0
